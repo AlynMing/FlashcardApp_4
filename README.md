@@ -1,12 +1,12 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
 
 ## Lab 4
 
 ### App Description
-`TODO://` Add app description
+`Added extra features to improve the aesthetic value of the app.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`
 
 <img src="https://i.imgur.com/XPbZbTe.gif" width=200><br>
 
